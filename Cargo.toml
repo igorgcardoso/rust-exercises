@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = ["exercises/*"]
+
+[profile.dev]
+overflow-checks = false
